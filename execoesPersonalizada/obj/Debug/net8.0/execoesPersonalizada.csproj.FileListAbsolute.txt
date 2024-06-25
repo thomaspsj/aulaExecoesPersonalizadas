@@ -1,0 +1,14 @@
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\bin\Debug\net8.0\execoesPersonalizada.exe
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\bin\Debug\net8.0\execoesPersonalizada.deps.json
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\bin\Debug\net8.0\execoesPersonalizada.runtimeconfig.json
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\bin\Debug\net8.0\execoesPersonalizada.dll
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\bin\Debug\net8.0\execoesPersonalizada.pdb
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\execoesPersonalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\execoesPersonalizada.AssemblyInfoInputs.cache
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\execoesPersonalizada.AssemblyInfo.cs
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\execoesPersonalizada.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\execoesPersonalizada.dll
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\refint\execoesPersonalizada.dll
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\execoesPersonalizada.pdb
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\execoesPersonalizada.genruntimeconfig.cache
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\ref\execoesPersonalizada.dll
