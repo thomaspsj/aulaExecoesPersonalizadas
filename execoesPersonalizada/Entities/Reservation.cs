@@ -1,11 +1,4 @@
-﻿using Microsoft.VisualBasic;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace execoesPersonalizada.Entities
+﻿namespace execoesPersonalizada.Entities
 {
     class Reservation
     {
@@ -30,10 +23,21 @@ namespace execoesPersonalizada.Entities
             return (int)duration.TotalDays;
         }
 
-        public void UpdatesDates(DateTime checkin, DateTime checkOut)
+        public string UpdatesDates(DateTime checkIn, DateTime checkOut)
         {
-            CheckIn = checkin;
+            DateTime now = DateTime.Now;
+            if (checkIn < now || checkOut < now)
+            {
+                return "Reservation dates for updates must be future dates.";
+            }
+            if (checkOut <= checkIn)
+            {
+                return "Check-out date must be after check-in date.";
+            }
+
+            CheckIn = checkIn;
             CheckOut = checkOut;
+            return null;
         }
 
         public override string ToString()

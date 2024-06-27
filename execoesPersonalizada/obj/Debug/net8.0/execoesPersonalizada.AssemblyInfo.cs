@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("execoesPersonalizada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c96f161e47fc87b8d5a4b211fba199535a4920ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("execoesPersonalizada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("execoesPersonalizada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

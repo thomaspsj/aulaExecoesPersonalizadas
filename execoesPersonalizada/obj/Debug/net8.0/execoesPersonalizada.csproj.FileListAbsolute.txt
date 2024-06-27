@@ -12,3 +12,4 @@ C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Deb
 C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\execoesPersonalizada.pdb
 C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\execoesPersonalizada.genruntimeconfig.cache
 C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\ref\execoesPersonalizada.dll
+C:\Users\thoma\OneDrive\Escritorio\Curso C#\Execoes\execoesPersonalizada\obj\Debug\net8.0\execoesPersonalizada.sourcelink.json
